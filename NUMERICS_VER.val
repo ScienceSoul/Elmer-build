@@ -1,0 +1,6 @@
+BLACS:blacs-1.1
+MUMPS:mumps-4.9.2
+PARMETIS:parmetis-3.1.1
+SUPERLU:superLU_dist-2.3
+SCALAPACK:scalapack-1.8.0
+PARDISO:pardiso-3.3
